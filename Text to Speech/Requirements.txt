@@ -1,0 +1,10 @@
+gtts 
+pdfplumber 
+python-pptx 
+pytesseract 
+pillow
+tesseract-ocr -y
+pytesseract
+ 
+Present this text to speech can read any type of file such as pdf, ppt, image, docx, etc
+We are working to bring up more  efficient code this is just for sample view.
